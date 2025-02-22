@@ -10,7 +10,7 @@ This is all you need to get started with the Django tutorial.
 
 Click the badge below to create a codespace and start coding. :rocket:
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/j4ckofalltrades/shecodespaces-django)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/SheCodesAustralia/shecodespaces-django)
 
 ## Managing codespaces
 
