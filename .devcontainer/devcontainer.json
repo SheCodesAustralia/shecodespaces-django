@@ -1,6 +1,6 @@
 {
   "name": "SheCodespaces Django",
-  "image": "mcr.microsoft.com/devcontainers/python:0-3.12",
+  "image": "mcr.microsoft.com/devcontainers/python:3",
   "hostRequirements": {
     "cpus": 2
   },
